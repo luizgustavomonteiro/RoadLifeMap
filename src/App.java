@@ -12,5 +12,9 @@ public class App {
 
         roadmap.display();
 
+        Task task = new Task("Java Operators");
+        
+        task.testTask();
+
     }
 }
